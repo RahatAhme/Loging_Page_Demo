@@ -11,7 +11,8 @@
         android:theme="@style/AppTheme">
         <activity android:name=".loging_page" />
         <activity android:name=".sign_up" />
-        <activity android:name=".Layout"></activity>
+        <activity android:name=".Layout" />
+        <activity android:name=".Rahat"></activity>
     </application>
 
 </manifest>
